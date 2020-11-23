@@ -1,3 +1,4 @@
 {
-  "editor.quickSuggestions": null
+  "editor.quickSuggestions": null,
+  "html-css-class-completion.enableEmmetSupport": true
 }
